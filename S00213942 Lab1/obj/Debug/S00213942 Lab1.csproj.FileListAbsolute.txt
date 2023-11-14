@@ -1,0 +1,30 @@
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\bin\Debug\S00213942 Lab1.exe.config
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\bin\Debug\S00213942 Lab1.exe
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\bin\Debug\S00213942 Lab1.pdb
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942 Lab1.csproj.AssemblyReference.cache
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\App.g.cs
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942 Lab1_MarkupCompile.cache
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942 Lab1_MarkupCompile.lref
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\MainWindow.baml
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942 Lab1.g.resources
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942_Lab1.Properties.Resources.resources
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942 Lab1.csproj.GenerateResource.cache
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942 Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942 Lab1.exe
+C:\Users\Emmet\source\repos\S00213942 Lab1\S00213942 Lab1\obj\Debug\S00213942 Lab1.pdb
+C:\Users\Emmet\Desktop\S00213942 Lab1\bin\Debug\S00213942 Lab1.exe.config
+C:\Users\Emmet\Desktop\S00213942 Lab1\bin\Debug\S00213942 Lab1.exe
+C:\Users\Emmet\Desktop\S00213942 Lab1\bin\Debug\S00213942 Lab1.pdb
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942 Lab1.csproj.AssemblyReference.cache
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\App.g.cs
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942 Lab1_MarkupCompile.cache
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942 Lab1_MarkupCompile.lref
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\MainWindow.baml
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942 Lab1.g.resources
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942_Lab1.Properties.Resources.resources
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942 Lab1.csproj.GenerateResource.cache
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942 Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942 Lab1.exe
+C:\Users\Emmet\Desktop\S00213942 Lab1\obj\Debug\S00213942 Lab1.pdb
